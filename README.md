@@ -1,5 +1,24 @@
-# 💫 About Me:
-👋 Hi, I'm Mansouri Ahmed, a passionate software developer and college student.<br>💻 I love building innovative solutions and exploring new technologies.<br>🌟 Open-source enthusiast | Problem solver | Lifelong learner.<br>I have experience in [HTML , CSS , JS , DB , PHP], and I am always eager to learn more.<br>🌟 I am fascinated by the power of open-source programming and believe in community participation.<br>💼 I am open to collaboration opportunities and working on web and application projects.<br>📫 You can reach me via email at [mansouriahmed747@gmail.com ] <br>
+💫 About Me
+👋 Hi, I'm Mansouri Ahmed, a passionate software developer and college student with a deep love for building innovative solutions and exploring new technologies.
+
+💻 I specialize in web and mobile app development, focusing on creating efficient, scalable, and user-friendly applications. My goal is to contribute to impactful projects while continuously learning and growing.
+
+🌟 Tech Enthusiast | Open-Source Contributor | Problem Solver | Lifelong Learner
+
+🔥 Tech Stack & Expertise:
+Web Development: HTML, CSS, JavaScript, PHP, Database Management
+
+Mobile App Development: Flutter (Dart)
+
+Other Skills: API Integration, UI/UX Design, Open-Source Contributions
+
+💼 Open to:
+🔹 Collaboration on exciting web & mobile development projects
+🔹 Open-source contributions and community engagement
+🔹 Internship & job opportunities in software development
+
+📫 Let's connect!
+Feel free to reach out via [Email: mansouriahmed747@gmail.com] or GitHub Discussions!
 
 
 ## 🌐 Socials:
