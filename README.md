@@ -8,7 +8,9 @@
 👋 I’m a passionate **software developer** and **data scientist** from **Algeria**, currently pursuing a **Master’s in Data Science & Artificial Intelligence** at *Abdelhamid Mehri Constantine 2 University*.  
 
 💻 I specialise in **web & mobile app development** and **AI-driven solutions**, focusing on creating efficient, scalable, and user-friendly applications.  
-🌟 I’m also an **open-source contributor, problem solver, and lifelong learner**.  
+🌟 I’m also an **open-source contributor, problem solver, and lifelong learner**.
+
+🔗 Check out my portfolio here: [My Portfolio]([https://vinodjangid07.github.io/](https://thisisahmedmansouriportfolio.netlify.app))  
 
 ---
 
