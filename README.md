@@ -10,7 +10,8 @@
 💻 I specialise in **web & mobile app development** and **AI-driven solutions**, focusing on creating efficient, scalable, and user-friendly applications.  
 🌟 I’m also an **open-source contributor, problem solver, and lifelong learner**.
 
-🔗 Check out my portfolio here: [My Portfolio]([https://vinodjangid07.github.io/](https://thisisahmedmansouriportfolio.netlify.app))  
+🎨 **Check out my portfolio here:**  
+👉 [🌐 thisisahmedmansouriportfolio.netlify.app](https://thisisahmedmansouriportfolio.netlify.app)  
 
 ---
 
