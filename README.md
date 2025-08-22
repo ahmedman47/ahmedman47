@@ -53,9 +53,51 @@
 ---
 
 ## 🌟 Featured Projects  
-🔹 **Camping DZ** – A complete web & mobile-friendly platform for exploring and booking camping sites in Algeria.  
-🔹 **Smart Home Multi-Agent Simulation** – Intelligent SPADE agents (Sensor, Controller, Actuator, Logger) simulating smart home behaviour.  
-🔹 **Client Websites & Apps** – Delivered Android apps and professional websites with responsive design & performance focus.  
+
+### 🔹 AI Football Tactics Analyzer  
+A powerful AI-based platform that analyzes football match footage and tactical patterns.  
+
+---
+
+### 🔹 AI Interior Design Assistant  
+An AI-powered design assistant that helps users visualize and personalise interior spaces.  
+
+---
+
+### 🔹 AI Threat Detection System  
+A **cloud-based real-time threat detection** system leveraging ML & cloud to analyse and detect cybersecurity risks instantly.   
+
+---
+
+### 🔹 Honey Land  
+A complete honey store offering natural honey, beekeeping tools, and educational content.  
+🍯 Discover premium products & learn everything about honey in one place.  
+
+---
+
+### 🔹 Squeeze – Fresh Juice Ordering App  
+A next-generation juice ordering app with a **3D cup selection system** for interactive ordering.  
+
+---
+
+### 🔹 Sentiment Analysis Engine  
+An **AI-powered NLP tool** using deep learning (BERT) to detect emotions in text (social media, customer feedback, etc).  
+
+---
+
+### 🔹 Predictive Maintenance System  
+A machine learning solution that **predicts equipment failures** using time-series anomaly detection.  
+
+---
+
+### 🔹 Medical Image Classification Model  
+A CNN model for **X-ray medical image classification** built with TensorFlow, achieving high accuracy.  
+
+---
+
+...and more 🚀  
+👉 Full list of projects available on my [Portfolio](https://thisisahmedmansouriportfolio.netlify.app)  
+
 
 ---
 
