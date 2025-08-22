@@ -71,7 +71,6 @@ A **cloud-based real-time threat detection** system leveraging ML & cloud to ana
 
 ### 🔹 Honey Land  
 A complete honey store offering natural honey, beekeeping tools, and educational content.  
-🍯 Discover premium products & learn everything about honey in one place.  
 
 ---
 
